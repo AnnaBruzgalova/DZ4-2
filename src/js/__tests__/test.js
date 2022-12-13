@@ -1,5 +1,5 @@
 // eslint-disable-next-line import/no-unresolved
-import total from 'src/js/mytest';
+import total from '../mytest.js';
 
 test('total value', () => {
     const input = {
